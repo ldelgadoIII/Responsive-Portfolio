@@ -49,3 +49,15 @@ footer a {
   object-fit: contain;
   margin: 10px;
 }
+
+#TaionAd {
+  padding-right: 40px;
+}
+
+#Headshot {
+  height: 85%;
+}
+
+/* @media and (max-width: 991px) {
+
+} */
