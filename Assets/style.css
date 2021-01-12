@@ -12,8 +12,12 @@ a.navbar-brand {
   font-size: 20px;
 }
 
-li {
+h1 i {
   color: rgb(77, 233, 212);
+}
+
+footer i {
+  color: black;
 }
 
 #aboutMeCard,
