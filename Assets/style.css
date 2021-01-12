@@ -8,7 +8,7 @@ body {
 }
 
 a.navbar-brand {
-  color: white;
+  color: white !important;
   font-size: 20px;
 }
 
@@ -58,6 +58,8 @@ footer a {
   height: 85%;
 }
 
-/* @media and (max-width: 991px) {
-
+/* @media only screen and (max-width: 991px) {
+    .change {
+        
+    }
 } */
