@@ -8,7 +8,8 @@ body {
 }
 
 #homeImg {
-  width: 170px;
-  height: 150px;
-  display: inline;
+  width: 165px;
+  height: 160px;
+  float: left;
+  margin-right: 13px;
 }
