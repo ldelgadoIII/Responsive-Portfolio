@@ -7,9 +7,22 @@ body {
   padding: 5px 10px;
 }
 
+a.navbar-brand {
+  color: white;
+  font-size: 20px;
+}
+
+li {
+  color: rgb(77, 233, 212);
+}
+
 #aboutMeCard {
   background-color: white;
   margin: 110px 0px 0px 0px;
+}
+
+h1 {
+  color: rgb(77, 233, 212);
 }
 
 #homeImg {
