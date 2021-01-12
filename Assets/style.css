@@ -17,7 +17,8 @@ li {
 }
 
 #aboutMeCard,
-#contactCard {
+#contactCard,
+#portfolioCard {
   background-color: white;
   margin: 110px 0px 0px 0px;
 }
@@ -40,4 +41,11 @@ h1 {
 
 footer a {
   text-decoration: none;
+}
+
+.portfolioImg img {
+  height: 85%;
+  width: 100%;
+  object-fit: contain;
+  margin: 10px;
 }
