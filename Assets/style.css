@@ -2,9 +2,14 @@ body {
   background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg");
 }
 
+.navbar-brand {
+  background-color: rgb(77, 233, 212);
+  padding: 5px 10px;
+}
+
 #aboutMeCard {
   background-color: white;
-  margin: 100px 0px 0px 10px;
+  margin: 110px 0px 0px 0px;
 }
 
 #homeImg {
