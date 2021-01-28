@@ -6,9 +6,9 @@ Welcome to my website where you can preview my previous acting experience! By ut
 
 ## Wesbsite Images
 
-![Index Page](/Assets/Index_Page.png)
-![Contact Page](/Assets/Contact_Page.png)
-![Portfolio Page](/Assets/Portfolio_Page.png)
+![Index Page](Assets/Index_Page.PNG)
+![Contact Page](Assets/Contact_Page.PNG)
+![Portfolio Page](Assets/Portfolio_Page.PNG)
 
 ## URL to Website
 
